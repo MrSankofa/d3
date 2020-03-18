@@ -1,5 +1,5 @@
 {
-  "name": "circlePack",
+  "name": "arcLabel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "d3": "^5.14.1"
-  }
+  "license": "ISC"
 }

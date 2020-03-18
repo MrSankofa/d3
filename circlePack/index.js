@@ -30,8 +30,6 @@ const obj = {
 
 const render = (svg, { root }, depth) => {
   console.log('depth inside render: ', depth);
-
-
   let focus = root;
 
   let view;

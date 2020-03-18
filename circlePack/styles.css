@@ -2,3 +2,37 @@ body {
   margin: 0px;
   overflow: hidden;
 }
+
+#add {
+  width: 150px;
+  height: 40px;
+  margin: 10px;
+  background-color: #a3f5cf;
+  font-size: 19px;
+  border-width: 3px;
+}
+
+#remove {
+  width: 150px;
+    height: 40px;
+    margin: 10px;
+    font-size: 19px;
+    border-width: 3px;
+    background-color: #74d7ca;
+}
+
+#depthInput {
+  width: 42px;
+  height: 37px;
+  font-size: 22px;
+  text-align: center;
+}
+
+#depth {
+  width: 150px;
+  height: 40px;
+  margin-left: 10px;
+  font-size: 19px;
+  border-width: 3px;
+  background-color: #74d7ca;
+}
